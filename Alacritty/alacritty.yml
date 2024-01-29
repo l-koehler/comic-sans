@@ -1,0 +1,8 @@
+# Font config:
+font:
+    normal:
+        family: "Comic Mono"
+    bold:
+        family: "Comic Mono Bold"
+    #offset:
+        #x: 10
