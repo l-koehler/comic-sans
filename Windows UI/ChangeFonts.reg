@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Segoe UI (TrueType)"="Comic Sans MS"
+"Segoe UI Black (TrueType)"="Comic Sans MS"
+"Segoe UI Black Italic (TrueType)"="Comic Sans MS"
+"Segoe UI Bold (TrueType)"="Comic Sans MS"
+"Segoe UI Italic (TrueType)"="Comic Sans MS"
+"Segoe UI Bold Italic (TrueType)"="Comic Sans MS"
+"Segoe UI Light Italic (TrueType)"="Comic Sans MS"
+"Segoe UI Semibold (TrueType)"="Comic Sans MS"
+"Segoe UI Semibold Italic (TrueType)"="Comic Sans MS"
+"Segoe UI Semilight (TrueType)"="Comic Sans MS"
+"Segoe UI Semilight Italic (TrueType)"="Comic Sans MS"
+"Segoe UI Light (TrueType)"="Comic Sans MS"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"Segoe UI"="Comic Sans MS"
